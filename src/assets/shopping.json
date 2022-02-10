@@ -1,0 +1,245 @@
+[
+  {
+    "imagelocation": "/assets/images/phillips bit.png",
+    "productname": "Phillis bit",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT876778888876546",
+    "length": "100 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/funnel.png",
+    "productname": "FUNNEL WITH FILTER",
+    "catogery": "Accessories",
+    "type": "Repair Miscellaneous Tools",
+    "partsnumbers": "GT710201902130008",
+    "length": "400 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/protection.png",
+    "productname": "PROTECTION COVER FOR URYU URW 80R",
+    "catogery": "Accessories",
+    "type": "Ratchet tool cover",
+    "partsnumbers": "SM812201905130003",
+    "length": "120 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/torx key.png",
+    "productname": "TORX KEY SET SOCKET TYPE",
+    "catogery": "Accessories",
+    "type": "Keeper and repair tools",
+    "partsnumbers": "GT710201810030078",
+    "length": "130 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/multimeter.png",
+    "productname": "MULTIMETER",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT87677888884346",
+    "length": "300 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/deep socket.png",
+    "productname": "Deep Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT8767788883376546",
+    "length": "432 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/bit socket.png",
+    "productname": "Bit Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT87677887776546",
+    "length": "42 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/locking wheel.png",
+    "productname": "Locking wheel nut removal sockets",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT876778887876546",
+    "length": "112 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/deep socket.png",
+    "productname": "Deep Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT8767788883376546",
+    "length": "123 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/bit socket.png",
+    "productname": "Bit Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT87677887776546",
+    "length": "112 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/locking wheel.png",
+    "productname": "Locking wheel nut removal sockets",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT876778887876546",
+    "length": "112 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/deep socket.png",
+    "productname": "Deep Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT8767788883376546",
+    "length": "178 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/bit socket.png",
+    "productname": "Bit Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT87677887776546",
+    "length": "186 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/locking wheel.png",
+    "productname": "Locking wheel nut removal sockets",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT876778887876546",
+    "length": "178 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/images/deep socket.png",
+    "productname": "Deep Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT8767788883376546",
+    "length": "166 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/bit socket.png",
+    "productname": "Bit Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT87677887776546",
+    "length": "189 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/locking wheel.png",
+    "productname": "Locking wheel nut removal sockets",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT876778887876546",
+    "length": "125 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/deep socket.png",
+    "productname": "Deep Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT8767788883376546",
+    "length": "111 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/bit socket.png",
+    "productname": "Bit Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT87677887776546",
+    "length": "1020 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/locking wheel.png",
+    "productname": "Locking wheel nut removal sockets",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT876778887876546",
+    "length": "1231 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/deep socket.png",
+    "productname": "Deep Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT8767788883376546",
+    "length": "10 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/locking wheel.png",
+    "productname": "Locking wheel nut removal sockets",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT876778887876546",
+    "length": "111 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/bit socket.png",
+    "productname": "Bit Socket",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT87677887776546",
+    "length": "1178 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  },
+  {
+    "imagelocation": "/assets/locking wheel.png",
+    "productname": "Locking wheel nut removal sockets",
+    "catogery": "Accessories",
+    "type": "Main Line + Repair Spare",
+    "partsnumbers": "GT876778887876546",
+    "length": "108 mm",
+    "dia": "ph2",
+    "drivesize": "1/4 QC"
+  }
+]
+
+
+

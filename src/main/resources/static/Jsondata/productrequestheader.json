@@ -1,0 +1,21 @@
+{
+  "prodReqHdrId": 1,
+  "reqNbr": "101",
+  "reqDate": "2018-12-10T13:45:00.000Z",
+  "reqDept": "21",
+  "reqSection": "21",
+  "reqLine": "21",
+  "requestedBy": "101",
+  "orderType": "Main Line + Repair Spare",
+  "prcsStatusId": "1",
+  "statusId": "1",
+  "sicComments": "NO LONGTEXT",
+  "aicComments": "AIC COMMENTS",
+  "issuedBy": "101",
+  "issuedDate": "2018-12-10T13:45:00.000Z",
+  "createdBy": "101",
+  "createdOn":"2018-12-10T13:45:00.000Z",
+  "updatedBy": "101",
+  "updatedOn": "2018-12-10T13:45:00.000Z"
+
+}
